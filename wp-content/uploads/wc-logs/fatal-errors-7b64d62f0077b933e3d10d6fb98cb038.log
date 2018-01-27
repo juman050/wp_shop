@@ -1,0 +1,16 @@
+2018-01-27T13:44:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_thumbnail() in F:\xampp\htdocs\wp\wp_shop\wp-content\themes\nxt\index.php:83
+Stack trace:
+#0 F:\xampp\htdocs\wp\wp_shop\wp-includes\template-loader.php(74): include()
+#1 F:\xampp\htdocs\wp\wp_shop\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\wp\wp_shop\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown
+
+2018-01-27T13:44:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_thumbnail() in F:\xampp\htdocs\wp\wp_shop\wp-content\themes\nxt\index.php:83
+Stack trace:
+#0 F:\xampp\htdocs\wp\wp_shop\wp-includes\template-loader.php(74): include()
+#1 F:\xampp\htdocs\wp\wp_shop\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\wp\wp_shop\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown
+
