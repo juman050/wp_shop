@@ -101,7 +101,8 @@
                         </div>
                       </div>
                       <?php echo woocommerce_template_loop_add_to_cart(); ?>
-                        
+                      <br>
+                      <p> <?php echo do_shortcode("[ti_wishlists_addtowishlist]"); ?></p>
                     </div>
                    </div>
                  </div>
@@ -277,6 +278,8 @@
                         </div>
                       </div>
                       <?php woocommerce_template_loop_add_to_cart( $loop->post, $product ); ?>
+                      <br>
+                      <p> <?php echo do_shortcode("[ti_wishlists_addtowishlist]"); ?></p>
                     </div>
                   </div>
                 </div>

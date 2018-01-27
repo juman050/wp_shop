@@ -309,3 +309,15 @@ img.attachment-img-responsive.size-img-responsive.wp-post-image {
     width: 100%;
     height: auto;
 }
+
+.tinv-wishlist .tinv-header h2, .tinv-wishlist .tinv-header {
+    margin-bottom: 0px;
+    margin-top: -50px;
+}
+.tinv-wishlist table, .tinv-wishlist form {
+    margin-bottom: 0;
+    margin-top: -60px;
+}
+tr.wishlist_item{
+    max-height: 30px
+}
